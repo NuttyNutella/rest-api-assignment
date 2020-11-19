@@ -1,2 +1,0 @@
-name,company_name,year,company_headquarters,industry
-Hehehe,Yes,2011,Space,Automobile
